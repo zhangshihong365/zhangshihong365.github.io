@@ -1,0 +1,665 @@
+{
+  "profile": {
+    "name": "Shihong Zhang",
+    "role": "Postdoctoral researcher",
+    "department": "Department of Civil and Environmental Engineering",
+    "institution": "The Hong Kong University of Science and Technology",
+    "location": "Hong Kong SAR",
+    "email": "szhanger@connect.ust.hk",
+    "scholar": "https://scholar.google.com/citations?user=kNA4fkwAAAAJ&hl=en",
+    "linkedin": "https://www.linkedin.com/in/shihong-zhang-913426249/",
+    "portrait": "assets/images/profile%20photo.jpeg",
+    "initials": "SZ"
+  },
+  "site": {
+    "year": 2026,
+    "updated": "November 2026",
+    "research_label": "Research",
+    "description": "Shihong Zhang is a postdoctoral researcher at HKUST working on Urban Energy System Modeling and Geographic Information System."
+  },
+  "about": [
+    "I am a postdoctoral researcher in the Department of Civil and Environmental Engineering at The Hong Kong University of Science and Technology (HKUST), working with Prof. Zhe Wang.",
+    "My research interests lie in Urban Energy System Modeling and Geographic Information System. My work connects geospatial computing with urban building energy modelling, renewable energy systems, and urban energy resilience.",
+    "I received my Ph.D. in Civil Engineering from HKUST in 2026. During my doctoral studies, I was a visiting Ph.D. student in Urban Studies and Planning at the Massachusetts Institute of Technology. I previously received an M.Eng. from Wuhan University and a B.Sc. from Wuhan University of Technology, both in Geographic Information Science."
+  ],
+  "interests": [
+    "Urban Energy System Modeling",
+    "Geographic Information System"
+  ],
+  "news": [
+    {
+      "date": "Oct 2026",
+      "type": "Award",
+      "text": "GeoBEM was featured as a highlighted project by the HKUST GREAT Smart Cities Institute (GSCI).",
+      "url": "https://gsc.hkust.edu.hk/geobem",
+      "link_text": "GeoBEM"
+    },
+    {
+      "date": "Oct 2026",
+      "type": "Award",
+      "text": "Selected as an honoree in the IBPSA-USA 2026–2027 Simulation Showcase.",
+      "url": "https://www.ibpsa.us/",
+      "link_text": "IBPSA-USA"
+    },
+    {
+      "date": "Sep 2026",
+      "type": "Career",
+      "text": "Started as a postdoctoral researcher at HKUST, working with Prof. Zhe Wang."
+    },
+    {
+      "date": "Aug 2026",
+      "type": "Award",
+      "text": "Received the Best Paper Award at the 4th International Conference on Urban Science and Intelligence, Guangzhou."
+    },
+    {
+      "date": "Jul 2026",
+      "type": "Award",
+      "text": "Received the Best Paper Award at Nexus Forum 2026, Oxford."
+    },
+    {
+      "date": "Jul 2026",
+      "type": "Career",
+      "text": "Completed my Ph.D. in Civil Engineering at HKUST."
+    },
+    {
+      "date": "Jun 2026",
+      "type": "Award",
+      "text": "Received the Best Paper Award and Best Oral Presentation Award at BAS2026, Hong Kong."
+    },
+    {
+      "date": "May 2026",
+      "type": "Career",
+      "text": "Completed my visiting Ph.D. research at the Massachusetts Institute of Technology (MIT).",
+      "url": "https://www.mit.edu/",
+      "link_text": "Massachusetts Institute of Technology (MIT)"
+    },
+    {
+      "date": "Apr 2026",
+      "type": "Award",
+      "text": "Received the Best Student Paper Award at the 9th International Conference on Energy, Electricity and Power Engineering, Nanjing."
+    },
+    {
+      "date": "Aug 2025",
+      "type": "Award",
+      "text": "Selected as a winner in the IBPSA-USA 2025–2026 Simulation Showcase.",
+      "url": "https://www.ibpsa.us/",
+      "link_text": "IBPSA-USA"
+    },
+    {
+      "date": "Jul 2025",
+      "type": "Award",
+      "text": "Awarded the 2025–2026 Dissertation Fellowship from the Peking University–Lincoln Institute Center for Urban Development and Land Policy for GIS-empowered Modelling and Analysis for Sustainable Energy Systems and Resilient Cities.",
+      "url": "https://plc.pku.edu.cn/en/info/1073/4233.htm",
+      "link_text": "Peking University–Lincoln Institute"
+    },
+    {
+      "date": "Jun 2025",
+      "type": "Award",
+      "text": "Received the Global Research Award from The Hong Kong University of Science and Technology."
+    },
+    {
+      "date": "May 2025",
+      "type": "Award",
+      "text": "Received the Merit Prize at the 11th Hong Kong University Student Innovation and Entrepreneurship Competition, Hong Kong."
+    },
+    {
+      "date": "Mar 2025",
+      "type": "Award",
+      "text": "Received the Second Prize at the 7th China Alliance for Heating, Ventilation and Air Conditioning (CAHVAC) Student Competition, Suzhou, China."
+    }
+  ],
+  "themes": [
+    {
+      "title": "Urban Energy System Modeling",
+      "text": "Urban Building Energy Modeling; Renewable Energy Systems."
+    },
+    {
+      "title": "Geographic Information System",
+      "text": "Urban Resilience and Sustainability; Climate Change Mitigation and Adaptation."
+    }
+  ],
+  "publications": [
+    {
+      "title": "An integrated energy–carbon–economic assessment of building decarbonization at city scale",
+      "authors": "Zhang, S., Chen, L., Huang, Q., Wang, X., & Wang, Z. (2026).",
+      "venue": "Applied Energy, 424, 128406.",
+      "year": 2026,
+      "status": "published",
+      "url": "https://doi.org/10.1016/j.apenergy.2026.128406"
+    },
+    {
+      "title": "GeoBEM: A geospatial computing empowered framework for urban-scale building energy modeling",
+      "authors": "Zhang, S., Chen, L., Xu, L., & Wang, Z. (2025).",
+      "venue": "Sustainable Cities and Society, 106203.",
+      "year": 2025,
+      "status": "published",
+      "url": "https://doi.org/10.1016/j.scs.2025.106203"
+    },
+    {
+      "title": "Inferring building type using textual data and Natural Language Processing for urban building energy modelling",
+      "authors": "Zhang, S., Zhou, Y., Chen, L., Huang, Y., & Wang, Z. (2025).",
+      "venue": "Building and Environment, 269, 112428.",
+      "year": 2025,
+      "status": "published",
+      "url": "https://doi.org/10.1016/j.buildenv.2024.112428"
+    },
+    {
+      "title": "Evaluating rooftop PV’s impact on power supply-demand discrepancies in grid decarbonization",
+      "authors": "Zhang, S., Pan, J., Lin, B., Li, Y., Ji, M., & Wang, Z. (2024).",
+      "venue": "Nexus, 1(4).",
+      "year": 2024,
+      "status": "published",
+      "url": "https://doi.org/10.1016/j.ynexs.2024.100041"
+    },
+    {
+      "title": "PVSAM: Adapting Geometric Prompts to Segment Anything Model for Photovoltaic Detection in Remote Sensing Imagery",
+      "authors": "Yao, X., Zhang, S.*, Liang, Z., Li, J., & Liu, C. (2026).",
+      "venue": "Applied Energy, 404, 127137.",
+      "year": 2026,
+      "status": "published",
+      "url": "https://doi.org/10.1016/j.apenergy.2025.127137"
+    },
+    {
+      "title": "Urban Energy Resilience under Climate Change: Definition, Quantification, and Enhancement",
+      "authors": "Lu, Q., Zhang, S., Wang, X., Wang, W., Lin, B., & Wang, Z. (2026).",
+      "venue": "Sustainable Cities and Society, 107769.",
+      "year": 2026,
+      "status": "published",
+      "url": "https://doi.org/10.1016/j.scs.2026.107769"
+    },
+    {
+      "title": "Mitigating Urban Climate-Energy Feedback with Citywide Building-Integrated Photovoltaics Implementation",
+      "authors": "Chen, L., Zhang, S., Li, X., Chui, T., Yang, J., Wang, W., Hong, T., & Wang, Z. (2026).",
+      "venue": "Nexus, 3(1).",
+      "year": 2026,
+      "status": "published",
+      "url": "https://doi.org/10.1016/j.ynexs.2025.100114"
+    },
+    {
+      "title": "Remote sensing for urban energy systems: bridging Earth Observations with urban-scale energy modeling",
+      "authors": "Wang, X., Zhang, S., Huang, Q., Lu, Q., & Wang, Z. (2026).",
+      "venue": "Sustainable Cities and Society, 107927.",
+      "year": 2026,
+      "status": "published",
+      "url": "https://doi.org/10.1016/j.scs.2026.107927"
+    },
+    {
+      "title": "Structural Constraints on Building Decarbonization in Electricity-dominant Cities",
+      "authors": "Huang, Q., Zhang, S., Chen, L., Wang, X., Wang, Z., & Zhang, C. (2026).",
+      "venue": "Nexus, 3(3).",
+      "year": 2026,
+      "status": "published",
+      "url": "https://doi.org/10.1016/j.ynexs.2026.100161"
+    },
+    {
+      "title": "The Resilience Paradox of Rooftop PV: Building Cooling Penalties and Heat Risks",
+      "authors": "Chen, L., Zhang, S., Cheng, I., Chang, H., Chen, F., Li, M., & Wang, Z. (2025).",
+      "venue": "Building and Environment, 113233.",
+      "year": 2025,
+      "status": "published",
+      "url": "https://doi.org/10.1016/j.buildenv.2025.113233"
+    },
+    {
+      "title": "Multi task Learning Framework with Vision Foundation Model for Roof Superstructure segmentation in Aerial Imagery",
+      "authors": "Yao, X., Liang, Z., Zhang, S., Lu, Y., & Li, J. (2026).",
+      "venue": "IEEE Geoscience and Remote Sensing Letters.",
+      "year": 2026,
+      "status": "published",
+      "url": "https://doi.org/10.1109/LGRS.2026.3704175"
+    },
+    {
+      "title": "Comparing Designs for Photovoltaic-Green Roofs: A Year-Long Field Study in a Subtropical Climate",
+      "authors": "Chen, L., Chang, H., Zhang, S., Li, M., Li, L., Karamanis, D., & Wang, Z. (2026).",
+      "venue": "Renewable Energy, 125805.",
+      "year": 2026,
+      "status": "published",
+      "url": "https://doi.org/10.1016/j.renene.2026.125805"
+    },
+    {
+      "title": "Automating exterior BIM for existing buildings using GIS data and UAV-based 3D modeling",
+      "authors": "Duan, Z., Lu, K., Li, M., Zhang, S., Lin, B., & Wang, Z. (2025).",
+      "venue": "Automation in Construction, 178, 106422.",
+      "year": 2025,
+      "status": "published",
+      "url": "https://doi.org/10.1016/j.autcon.2025.106422"
+    },
+    {
+      "title": "Impacts of Photovoltaics and Integrated Green Roofs on Urban Climate: Experimental Insights for Urban Land Surface Modelling",
+      "authors": "Chen, L., Lin, Z., Zhou, Q., Zhang, S., Li, M., & Wang, Z. (2025).",
+      "venue": "Renewable and Sustainable Energy Reviews, 217, 116709.",
+      "year": 2025,
+      "status": "published",
+      "url": "https://doi.org/10.1016/j.rser.2025.115709"
+    },
+    {
+      "title": "Semi-Supervised Domain Adaptation With Dual-Adversarial Learning for Lane Detection",
+      "authors": "Yao, X., Wang, Y., Dai, L., Zhang, S., Dou, M., & Deng, Y. (2024).",
+      "venue": "IEEE Transactions on Automation Science and Engineering.",
+      "year": 2024,
+      "status": "published",
+      "url": "https://doi.org/10.1109/TASE.2024.3451507"
+    }
+  ],
+  "projects": [
+    {
+      "title": "GIS-empowered Modelling and Analysis for Sustainable Energy Systems and Resilient Cities",
+      "role": "Leading",
+      "funding": "2025–2026 Dissertation Scholarship, Peking University–Lincoln Institute Center for Urban Development and Land Policy."
+    },
+    {
+      "title": "Urban-scale Building Energy Model for Hong Kong",
+      "role": "Participating",
+      "funding": ""
+    },
+    {
+      "title": "Developing Hong Kong as a Global Green Finance Centre",
+      "role": "Participating",
+      "funding": "Theme-based Research Scheme, Research Grants Council of the Hong Kong SAR, China. Project T31-603/21-N, 2022–2026.",
+      "url": "https://greenfinance.hkust.edu.hk/"
+    },
+    {
+      "title": "Toward 2060 Carbon Neutrality: Life-cycle Planning and Design of Photovoltaic Integrated Green Roof (PVIGR) Systems for Hong Kong and the Greater Bay Area",
+      "role": "Participating",
+      "funding": "Collaborative Research Fund, C6003-22Y, 2023–2026."
+    }
+  ],
+  "platforms": [
+    {
+      "title": "Hong Kong Urban Building Energy Modelling Platform",
+      "subtitle": "3D buildings, energy demand, and carbon emissions",
+      "description": "A geospatial platform presenting three-dimensional buildings with basic information, energy demand, and carbon emissions.",
+      "image": "assets/images/urban-energy.png",
+      "alt": "Hong Kong urban building energy platform showing a three-dimensional city map with energy-use indicators.",
+      "url": "http://cez027.ce.ust.hk/HongKongUrbanEnergy/UrbanEnergy.html"
+    },
+    {
+      "title": "Urban Vehicle-to-Building Potential Assessment Platform",
+      "subtitle": "Community-scale power supply potential of electric vehicles",
+      "description": "A mapping platform for assessing the potential of electric vehicles to supply power at the community scale.",
+      "image": "assets/images/vehicle-to-building.png",
+      "alt": "Two city maps comparing community energy supply potential at different electric vehicle penetration rates.",
+      "url": "http://cez027.ce.ust.hk/V2B/V2B.html"
+    },
+    {
+      "title": "Hong Kong Building Decarbonization Evaluation Platform",
+      "subtitle": "Energy savings, carbon reduction, and retrofit investment",
+      "description": "A platform for evaluating energy savings, carbon reduction potential, and investment returns of building retrofits.",
+      "image": "assets/images/building-retrofit.png",
+      "alt": "Hong Kong building retrofit platform displaying a building map, upgrade options, and simulation results.",
+      "url": ""
+    }
+  ],
+  "teaching": [
+    {
+      "course": "MIT 11.258",
+      "title": "Sustainable Urbanization Research Seminar",
+      "role": "Guest lecture",
+      "term": "2025–26 Fall",
+      "institution": "Massachusetts Institute of Technology"
+    },
+    {
+      "course": "CIVL4310",
+      "title": "Energy System Modeling for Buildings and Cities",
+      "role": "Teaching Assistant",
+      "term": "2024–25 Fall",
+      "institution": "The Hong Kong University of Science and Technology"
+    },
+    {
+      "course": "IBTM5150",
+      "title": "Advanced HVAC Systems",
+      "role": "Teaching Assistant",
+      "term": "2024–25 Fall",
+      "institution": "The Hong Kong University of Science and Technology"
+    },
+    {
+      "course": "CIVL4370",
+      "title": "Computer Methods of Structural Analysis",
+      "role": "Teaching Assistant, Tutorial Instructor",
+      "term": "2023–24 Spring",
+      "institution": "The Hong Kong University of Science and Technology"
+    }
+  ],
+  "supervision": [
+    {
+      "period": "2026–2027",
+      "text": "Supervise 4 undergraduate final-year projects."
+    },
+    {
+      "period": "2025–2026",
+      "text": "Co-supervised 3 master’s thesis students."
+    },
+    {
+      "period": "2024–2025",
+      "text": "Supervised 4 master’s thesis students."
+    },
+    {
+      "period": "2023–2024",
+      "text": "Supervised 2 master’s thesis students."
+    }
+  ],
+  "talks": [
+    {
+      "date": "Aug 2026",
+      "title": "Decarbonizing Urban Buildings for Net-Zero Transitions: Costs, Benefits, and Retrofit Pathways",
+      "event": "The 4th International Conference on Urban Science and Intelligence",
+      "host": "HKUST (Guangzhou) & Tsinghua University",
+      "location": "Guangzhou, China"
+    },
+    {
+      "date": "Jul 2026",
+      "title": "An integrated energy–carbon–economic assessment of building decarbonization at city scale",
+      "event": "Nexus Forum 2026",
+      "host": "Nexus & Environmental Change Institute, University of Oxford",
+      "location": "Oxford, UK"
+    },
+    {
+      "date": "Jun 2026",
+      "title": "Mitigating extreme weather-induced power outages by electric vehicles to enhance urban energy resilience",
+      "event": "The International Conference of Building and Simulation, BAS2026",
+      "host": "HKUST & Tsinghua University",
+      "location": "Hong Kong"
+    },
+    {
+      "date": "Jan 2026",
+      "title": "Urban Decarbonization Strategies",
+      "event": "IBPSA-USA Simulation Showcase Webinar Series",
+      "host": "IBPSA-USA",
+      "location": "U.S. · Online"
+    },
+    {
+      "date": "Aug 2025",
+      "title": "Estimating life-cycle carbon mitigation potential of building integrated photovoltaics (BIPV) glazed façade at the city scale",
+      "event": "2025 Building Simulation Conference",
+      "host": "International Building Performance Simulation Association",
+      "location": "Brisbane, Australia"
+    },
+    {
+      "date": "Dec 2024",
+      "title": "Impact of Climate Change on the Disparities in Energy Burdens across Disadvantaged Communities",
+      "event": "2024 AGU Annual Meeting",
+      "host": "American Geophysical Union",
+      "location": "Washington, D.C., U.S."
+    },
+    {
+      "date": "Sep 2024",
+      "title": "Toward Carbon Neutral Cities: Pathways to Decarbonize the Power Grid System",
+      "event": "Guest talk with the Columbia Water Center, Columbia University",
+      "host": "Professor Upmanu Lall’s lab",
+      "location": "New York, U.S. · Online"
+    },
+    {
+      "date": "Jun 2024",
+      "title": "Combining Geographic Information System and satellite image for urban-scale building energy modeling",
+      "event": "Asian University Alliance Seminar — Smart and Low Carbon City",
+      "host": "HKUST",
+      "location": "Hong Kong"
+    },
+    {
+      "date": "Sep 2023",
+      "title": "Research on smart cities under digital transformation",
+      "event": "GISUP (Geography, Intelligence, Space, Urban, Planning) Seminar",
+      "host": "Wuhan Natural Resources and Planning Information Center",
+      "location": "Wuhan, China"
+    },
+    {
+      "date": "May 2023",
+      "title": "Research on Street View Retrieval and Positioning Considering Context-Aware Features",
+      "event": "The 18th China Annual Conference on Theory and Methods of Geographic Information Science",
+      "host": "China Association for Geospatial Information Society",
+      "location": "Guilin, China"
+    }
+  ],
+  "service": {
+    "conferences": [
+      {
+        "title": "Session chair, Building Simulation Conference 2025",
+        "description": "Energy Efficiency and Sustainability session · Brisbane, Australia"
+      },
+      {
+        "title": "Organizing committee member, BAS2026",
+        "description": "The International Conference of Building and Simulation"
+      }
+    ],
+    "reviewing": {
+      "GIS/Remote Sensing": [
+        "ISPRS Journal of Photogrammetry and Remote Sensing",
+        "Remote Sensing of Environment",
+        "Remote Sensing Applications: Society and Environment",
+        "International Journal of Digital Earth",
+        "Remote Sensing Letters",
+        "Geocarto International",
+        "Urban Science"
+      ],
+      "Built Environment/Energy": [
+        "Sustainable Cities and Society",
+        "Applied Energy",
+        "Energy Conversion and Management",
+        "Renewable Energy",
+        "Building and Environment",
+        "Energy and Buildings",
+        "Building Simulation",
+        "Journal of Building Engineering",
+        "Sustainable Cities and Society: Advances",
+        "Energy Efficiency",
+        "Energy Nexus",
+        "Communications Sustainability",
+        "Case Studies in Thermal Engineering",
+        "Sustainable Futures",
+        "Urban Climate",
+        "Energies",
+        "Sustainability",
+        "Buildings",
+        "Infrastructures"
+      ],
+      "Others": [
+        "Scientific Data",
+        "Engineering Applications of Artificial Intelligence",
+        "Applied Soft Computing Journal",
+        "Discover Artificial Intelligence",
+        "Biosystems Engineering",
+        "Next Research",
+        "Scientific Reports"
+      ]
+    },
+    "memberships": [
+      "American Geophysical Union (AGU)",
+      "Hong Kong Young Scientist Association",
+      "Esri Young Professionals Network"
+    ],
+    "internships": [
+      {
+        "title": "Journal Editorial Team, Geo-Spatial Information Science",
+        "dates": "Sep 2021 – present",
+        "location": "",
+        "url": "https://www.tandfonline.com/journals/tgsi20",
+        "link_text": "Geo-Spatial Information Science"
+      },
+      {
+        "title": "Urban Planning & Design Institute of Shenzhen",
+        "dates": "Jul – Aug 2023",
+        "location": "Shenzhen, China"
+      },
+      {
+        "title": "Wuhan Municipal Bureau of Natural Resources and Urban Rural Development",
+        "dates": "Jul – Aug 2020",
+        "location": "Wuhan, China"
+      }
+    ]
+  },
+  "patents": [
+    {
+      "title": "A new elevated bridge sound insulation board cleaning system based on rainwater collection and reuse",
+      "type": "China National Utility Model Patent",
+      "number": "ZL 2019 2 2499703.4"
+    },
+    {
+      "title": "Automatic modelling method for urban scale building energy simulation",
+      "type": "China Invention Patent",
+      "number": "202410909228.6"
+    }
+  ],
+  "moments": [
+    {
+      "title": "Sunsets at Kennedy Town",
+      "text": "A little tradition I’ve kept alive for three years: bringing our research group together to watch the sunset at Kennedy Town at the start of the new semester.",
+      "images": [
+        {
+          "src": "assets/images/Moments/Kennedy%20Town/20261115-162718.jpeg",
+          "alt": "Our research group at Kennedy Town, photo 1"
+        },
+        {
+          "src": "assets/images/Moments/Kennedy%20Town/20261115-162738.jpeg",
+          "alt": "Our research group at Kennedy Town, photo 2"
+        },
+        {
+          "src": "assets/images/Moments/Kennedy%20Town/20261115-162750.jpeg",
+          "alt": "Our research group at Kennedy Town, photo 3"
+        }
+      ]
+    },
+    {
+      "title": "Happy Teachers’ Day",
+      "text": "",
+      "images": [
+        {
+          "src": "assets/images/Moments/Happy%20Teacher%27s%20Day/2025.jpeg",
+          "alt": "Teachers’ Day 2025",
+          "caption": "2025"
+        },
+        {
+          "src": "assets/images/Moments/Happy%20Teacher%27s%20Day/2026.jpeg",
+          "alt": "Teachers’ Day 2026",
+          "caption": "2026"
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "The Hong Kong University of Science and Technology",
+      "title": "Ph.D. in Civil Engineering",
+      "dates": "Sep 2023 – Jul 2026",
+      "location": "Hong Kong",
+      "supervisor": "Prof. Zhe Wang"
+    },
+    {
+      "institution": "Wuhan University",
+      "title": "M.Eng. in Geographic Information Science",
+      "dates": "Sep 2021 – Jun 2023",
+      "location": "Wuhan, China",
+      "supervisor": "Prof. Yandong Wang"
+    },
+    {
+      "institution": "Wuhan University of Technology",
+      "title": "B.Sc. in Geographic Information Science",
+      "dates": "Sep 2017 – Jun 2021",
+      "location": "Wuhan, China",
+      "supervisor": "Prof. Yunjun Zhan"
+    }
+  ],
+  "experience": [
+    {
+      "institution": "The Hong Kong University of Science and Technology",
+      "title": "Postdoctoral researcher",
+      "dates": "Sep 2026 – present",
+      "location": "Hong Kong",
+      "supervisor": "Prof. Zhe Wang"
+    },
+    {
+      "institution": "Massachusetts Institute of Technology",
+      "title": "Visiting Ph.D. student in Urban Studies and Planning",
+      "dates": "Oct 2025 – May 2026",
+      "location": "Cambridge, U.S.",
+      "supervisor": "Prof. Siqi Zheng"
+    }
+  ],
+  "about_links": {
+    "Zhe Wang": "https://walterzwang.github.io/",
+    "Hong Kong University of Science and Technology (HKUST)": "https://hkust.edu.hk/",
+    "Massachusetts Institute of Technology": "https://www.mit.edu/",
+    "Wuhan University": "https://www.whu.edu.cn/",
+    "Wuhan University of Technology": "https://www.whut.edu.cn/",
+    "HKUST": "https://hkust.edu.hk/"
+  },
+  "visitor_map": {
+    "enabled": true,
+    "site_url": "",
+    "widget_id": ""
+  },
+  "photography": [
+    {
+      "src": "assets/images/Moments/My%20Photography%20Portfolio/Beacon%20Hill%2C%20Hong%20Kong.jpeg",
+      "alt": "Beacon Hill, Hong Kong",
+      "caption": "Beacon Hill, Hong Kong"
+    },
+    {
+      "src": "assets/images/Moments/My%20Photography%20Portfolio/Beijing.jpeg",
+      "alt": "Beijing",
+      "caption": "Beijing"
+    },
+    {
+      "src": "assets/images/Moments/My%20Photography%20Portfolio/Boston.jpeg",
+      "alt": "Boston",
+      "caption": "Boston"
+    },
+    {
+      "src": "assets/images/Moments/My%20Photography%20Portfolio/Clear%20Water%20Beach%2C%20FL%2C%20US.jpeg",
+      "alt": "Clear Water Beach, FL, US",
+      "caption": "Clear Water Beach, FL, US"
+    },
+    {
+      "src": "assets/images/Moments/My%20Photography%20Portfolio/MIT.jpeg",
+      "alt": "MIT",
+      "caption": "MIT"
+    },
+    {
+      "src": "assets/images/Moments/My%20Photography%20Portfolio/Sydney.jpeg",
+      "alt": "Sydney",
+      "caption": "Sydney"
+    },
+    {
+      "src": "assets/images/Moments/My%20Photography%20Portfolio/Victoria%20Harbour%2C%20Hong%20Kong.jpeg",
+      "alt": "Victoria Harbour, Hong Kong",
+      "caption": "Victoria Harbour, Hong Kong"
+    }
+  ],
+  "team_intro": "We are the Urban Group within the Smart Building and Construction Lab at the Hong Kong University of Science and Technology (HKUST). Our team brings together diverse backgrounds in geographic information science (GIS), architecture, urban planning, and environmental science. Our research spans GIS, urban energy systems, urban sustainability, and resilience, with a shared goal of advancing more sustainable and resilient cities.",
+  "team_members": [
+    {
+      "name": "Prof. Zhe Wang",
+      "image": "assets/images/Team/Zhe%20Wang.jpg",
+      "url": "https://walterzwang.github.io/"
+    },
+    {
+      "name": "Shihong Zhang",
+      "image": "assets/images/Team/Shihong%20Zhang.jpg",
+      "url": "https://www.linkedin.com/in/shihong-zhang-913426249/"
+    },
+    {
+      "name": "Liutao Chen",
+      "image": "assets/images/Team/Liutao%20Chen.png",
+      "url": "https://chenlt326.github.io/"
+    },
+    {
+      "name": "Ke Sun",
+      "image": "assets/images/Team/Ke%20Sun.jpg",
+      "url": "https://kylesun725.github.io/"
+    },
+    {
+      "name": "Qinhui Lu",
+      "image": "assets/images/Team/Qinhui%20Lu.jpg",
+      "url": "https://www.linkedin.com/in/qinhui-lu-1146ba406/"
+    },
+    {
+      "name": "Qiqi Huang",
+      "image": "assets/images/Team/Qiqi%20Huang.png",
+      "url": "https://www.linkedin.com/in/tippi-qiqi-huang-7ab871216/"
+    },
+    {
+      "name": "Xinyu Wang",
+      "image": "assets/images/Team/Xinyu%20Wang.jpg",
+      "url": "https://www.linkedin.com/in/xinyu-wang-4b0a14269/"
+    }
+  ],
+  "team_lab_url": "https://walterzwang.github.io/"
+}
