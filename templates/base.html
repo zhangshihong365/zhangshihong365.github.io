@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="$description">
+  <meta name="author" content="$name">
+  <meta name="theme-color" content="#ffffff">
+  <meta property="og:title" content="$title — $name">
+  <meta property="og:description" content="$description">
+  <meta property="og:type" content="website">
+  <title>$title — $name</title>
+  <link rel="icon" href="assets/images/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <script src="assets/js/main.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="masthead">
+    <div class="masthead-inner">
+      <a class="site-title" href="index.html" $home_current>$name</a>
+      <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="primary-nav" hidden>
+        <span>Menu</span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
+      </button>
+      <nav id="primary-nav" class="primary-nav" aria-label="Main navigation">$navigation</nav>
+    </div>
+  </header>
+  <div class="site-layout">
+    <aside class="author" aria-label="About $name">
+      <a class="portrait-link" href="index.html" aria-label="$name home">$portrait</a>
+      <div class="author-info">
+        <h2 class="author-name">$name</h2>
+        <p class="author-role">$role</p>
+        <p class="author-affiliation">$department<br>$institution</p>
+        <ul class="author-links">$profile_links</ul>
+      </div>
+    </aside>
+    <main class="page-content" id="main" tabindex="-1">$content</main>
+  </div>
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div class="footer-top"><a href="index.html">$name</a></div>
+      <p>© $year $name. <span>Last updated: $updated.</span></p>
+    </div>
+  </footer>
+</body>
+</html>
