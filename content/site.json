@@ -532,6 +532,22 @@
           "caption": "2026"
         }
       ]
+    },
+    {
+      "title": "MIT-Harvard Cooking Competition",
+      "text": "Ashdown House, MIT.",
+      "images": [
+        {
+          "src": "assets/images/Moments/Cooking/2025.12.31.jpeg",
+          "alt": "MIT-Harvard Cooking Competition, 2025.12.31",
+          "caption": "2025.12.31"
+        },
+        {
+          "src": "assets/images/Moments/Cooking/2026.2.7.jpeg",
+          "alt": "MIT-Harvard Cooking Competition, 2026.2.7",
+          "caption": "2026.2.7"
+        }
+      ]
     }
   ],
   "education": [
