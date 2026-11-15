@@ -172,11 +172,11 @@ python3 -m http.server 8000 --bind 127.0.0.1
 - 访客地图目前尚未启用，不发送访客统计请求；配置并在公网部署后，会使用 MapMyVisitors 统计服务。项目没有表单后台或外部字体依赖。
 
 
-## 访客地图（待确定公网网址后接入）
+## 访客地图（MapMyVisitors）
 
-共享页脚已移除 Get in touch，访客世界地图仅显示在 Moments 页面正文最下方。当前只显示没有访客标记的底图，并注明统计尚未启用；没有模拟访问量，也不会对第三方发起统计请求。
+共享页脚已移除 Get in touch，访客世界地图仅显示在 Moments 页面正文最下方。已为 https://zhangshihong365.github.io/ 配置专属地图；仅公网 Moments 页面加载第三方统计，本地预览保留静态底图。
 
-确定 GitHub Pages 网址后：
+如需更换统计项目：
 
 1. 在 [MapMyVisitors](https://mapmyvisitors.com/add) 为实际公网网址生成地图嵌入代码。
 2. 从返回代码的 `map.js?d=...` 中复制 `d` 的值，填入 `content/site.json` → `visitor_map.widget_id`。不要使用服务商演示地图的 ID。
@@ -185,7 +185,7 @@ python3 -m http.server 8000 --bind 127.0.0.1
 
 地图仅位于 Moments 页面正文底部，接入后统计访问 Moments 页面的访客。脚本只会在配置的网址下通过 HTTPS 加载；本地文件、localhost 和其他预览地址不会进入正式统计。将 `enabled` 改为 `false` 并重新生成，可以移除地图。
 
-该功能需要第三方统计服务保存和汇总访问记录，GitHub Pages 静态网页本身无法完成跨访客累计。地图显示基于 IP 推断的大致位置；配置启用后，服务商会接收访客连接信息用于统计。尚未获取正式 widget ID，因此真实数据加载需在接入后验证。
+该功能需要第三方统计服务保存和汇总访问记录，GitHub Pages 静态网页本身无法完成跨访客累计。地图显示基于 IP 推断的大致位置；配置启用后，服务商会接收访客连接信息用于统计。统计页面：https://mapmyvisitors.com/web/1c9hz 。
 
 默认底图来自 [Natural Earth 的 1:110m 陆地数据](https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_110m_land.geojson)，本地 SVG 不包含真实访客信息。
 
