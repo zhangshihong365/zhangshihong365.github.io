@@ -239,6 +239,7 @@ li { padding-left: 2px; margin-bottom: 10px; }
 .team-member figcaption { margin-top: 12px; font-size: 16px; font-weight: 600; }
 @media (max-width: 640px) {
   .team-members { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px 16px; }
+  .team-members-first > .team-member:first-child { grid-column: 1 / -1; width: calc((100% - 16px) / 2); justify-self: start; }
   .team-member img { height: 180px; }
 }
 
