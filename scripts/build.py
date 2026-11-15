@@ -269,11 +269,12 @@ def visitor_map_html():
     config = DATA.get('visitor_map', {})
     if not config.get('enabled', False):
         return ''
+    status = 'Live visitor map is available on the published website.' if config.get('widget_id') and config.get('site_url') else 'Visitor tracking is not yet enabled.'
     return (f'<section class="visitor-map" aria-labelledby="visitor-map-title" data-site-url="{e(config.get("site_url", ""))}" data-widget-id="{e(config.get("widget_id", ""))}">'
             '<h2 id="visitor-map-title">Visitors around the world</h2>'
-            '<div class="visitor-map-frame"><img class="visitor-map-placeholder" src="assets/images/visitor-world.svg" alt="World map; visitor tracking is not yet enabled" width="720" height="360">'
+            '<div class="visitor-map-frame"><img class="visitor-map-placeholder" src="assets/images/visitor-world.svg" alt="World map placeholder" width="720" height="360">'
             '<div id="visitor-map-widget"></div></div>'
-            '<p class="visitor-map-status" role="status">Visitor tracking is not yet enabled.</p>'
+            f'<p class="visitor-map-status" role="status">{e(status)}</p>'
             '<noscript><p>JavaScript is required to display live visitor locations.</p></noscript></section>')
 
 
